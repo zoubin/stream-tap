@@ -1,6 +1,6 @@
 {
   "name": "stream-tap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "control (pause or resume) a node stream pipeline",
   "main": "index.js",
   "scripts": {
